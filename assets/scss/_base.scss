@@ -1,0 +1,39 @@
+// imports
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+
+// html
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Montserrat', sans-serif;
+    font-display: swap;
+}
+
+i {
+    &:hover {
+        cursor: pointer;
+    }
+}
+
+// mixin
+@mixin flexLayout($var1, $var2) {
+    flex: 1 1 $var1;
+    display: flex;
+    flex-flow: $var2 wrap;
+}
+
+@mixin bar {
+    max-height: 3rem;
+    align-items: center;
+    justify-content: center;
+}
+
+@mixin shoes {
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}

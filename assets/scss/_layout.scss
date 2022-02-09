@@ -1,0 +1,34 @@
+body {
+    display: flex;
+    flex-flow: column wrap;
+}
+
+header {
+    @include flexLayout(30rem, column);
+    background-image: url(/assets/img/capa.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+main {
+    @include flexLayout(auto, column);
+    align-items: center;
+    min-height: 80vh;
+    margin-top: 3.5rem;
+    gap: 1.5rem;
+    padding: 0rem 5rem 0rem 5rem;
+
+    p {
+        color: #474747;
+        font-size: 1.125rem;
+    }
+}
+
+footer {
+    @include flexLayout(3rem, column);
+    @include bar();
+    background-color: black;
+    color: white;
+}

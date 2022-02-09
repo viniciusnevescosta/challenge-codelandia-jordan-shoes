@@ -1,0 +1,88 @@
+// classes
+.bar {
+    @include flexLayout(auto, row);
+    @include bar();
+    width: 100%;
+    height: 3rem;
+    position: fixed;
+}
+
+.black {
+    background-color: black;
+    color: white;
+    justify-content: space-between;
+    padding: 0rem 5rem 0rem 5rem;
+}
+
+.white {
+    background-color: white;
+    margin-top: 3rem;
+    color: black;
+}
+
+.info {
+    @include flexLayout(auto, column);
+    justify-content: center;
+    color: white;
+    gap: 1.5rem;
+    padding: 0rem 5rem 0rem 5rem;
+    background-color: rgba(24, 24, 24, 0.6);
+}
+
+// grid
+.container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+
+    margin-top: 3.5rem;
+    margin-bottom: 5rem;
+    width: 100%;
+    min-height: 40rem;
+    row-gap: 2rem;
+    column-gap: 1rem;
+}
+
+.jordan {
+    background-color: #EBE9EA;
+}
+
+#j1 {
+    background-image: url(/assets/img/jordan1.png);
+    @include shoes();
+}
+
+#j2 {
+    background-image: url(/assets/img/jordan2.png);
+    @include shoes();
+}
+
+#j3 {
+    background-image: url(/assets/img/jordan3.png);
+    @include shoes();
+}
+
+#j4 {
+    background-image: url(/assets/img/jordan4.png);
+    @include shoes();
+}
+
+#j5 {
+    background-image: url(/assets/img/jordan5.png);
+    @include shoes();
+}
+
+#j6 {
+    background-image: url(/assets/img/jordan6.png);
+    @include shoes();
+}
+
+#j7 {
+    background-image: url(/assets/img/jordan7.png);
+    @include shoes();
+}
+
+#j8 {
+    background-image: url(/assets/img/jordan8.png);
+    @include shoes();
+}
