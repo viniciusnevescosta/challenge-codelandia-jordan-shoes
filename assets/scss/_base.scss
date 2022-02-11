@@ -19,6 +19,27 @@ i {
     }
 }
 
+// selection
+::selection {
+    color: #B5D8FD;
+    background: #4048B8;
+}
+
+// scrollbar
+::-webkit-scrollbar {
+    width: 0.5rem;
+    padding: 1rem;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 5px;
+    background-color: #333333;
+
+    &:hover {
+        background-color: #4D4D4D;
+    }
+}
+
 // mixin
 @mixin flexLayout($var1, $var2) {
     flex: 1 1 $var1;
