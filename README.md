@@ -1,20 +1,42 @@
-# desafio2-jordanShoes
+# Codelândia Challenge 02 - Jordan Shoes
 
-### 🚀 Technologies
-- HTML5
-- SASS
-- JavaScript
+## Overview
 
-### 💻 Project
-Codelândia: Jordan's best store: Jordan sneakers are the result of an old and strong partnership between Nike and the player Michael Jordan. In this project I managed to complete the entire front-end designed in the layout.
+Codelândia Challenge 02 is a development challenge to create a simple and responsive static web page. The project's theme is a sneaker store.
 
-Here is the deploy [link](https://desafio2-jordanshoes.vercel.app/).
+## Design Link
 
-### 🔖 Layout
-Here is the design [link](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=1883%3A2) for that project.
+[View Design in Figma](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=624-2&mode=design&t=xKU1mzShuAtZsBdQ-0)
 
-### 📝 License
-This project is under the MIT license. See the [file](LICENSE) for more details.
+## Project Status
 
-### 👍 Assignments
-- Favicon: <a href="https://www.flaticon.com/free-icons/sneakers" title="sneakers icons">Sneakers icons created by Freepik - Flaticon</a>
+⚠️ **This project is currently inactive, and there is no scheduled maintenance. It was part of a coding challenge, and there are no plans for future updates. Use it as a reference or starting point for your own projects.**
+
+## Author
+
+- Vinícius Neves Costa
+
+## Getting Started
+
+To view the project, simply open the [index.html](insert_link_to_index_file_here) file in your web browser.
+
+## Features
+
+- Simple and responsive sneaker store layout.
+
+## Technologies Used
+
+- HTML
+- CSS
+
+## Contributing
+
+As this project is not actively maintained, contributions are not currently accepted.
+
+## License
+
+This project is licensed under the MIT license.
+
+## Acknowledgements
+
+- Codelândia for the challenge opportunity.
