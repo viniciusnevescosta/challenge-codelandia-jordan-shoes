@@ -1,37 +1,33 @@
 # Codelândia Challenge 02 - Jordan Shoes
 
-## Overview
+This project is part of the Codelândia Challenge 02, a development challenge to create a simple and responsive static page. The theme of the project is a sneaker store, and it was built using HTML and SCSS.
 
-Codelândia Challenge 02 is a development challenge to create a simple and responsive static web page. The project's theme is a sneaker store.
+## Project Overview
 
-## Design Link
-
-[View Design in Figma](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=624-2&mode=design&t=xKU1mzShuAtZsBdQ-0)
+The goal of this challenge was to create a static and responsive webpage for a sneaker store. The design layout for the project can be found [here](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=624-2&mode=design&t=xKU1mzShuAtZsBdQ-0).
 
 ## Project Status
 
-⚠️ **This project is currently inactive, and there is no scheduled maintenance. It was part of a coding challenge, and there are no plans for future updates. Use it as a reference or starting point for your own projects.**
+⚠️ **This project is currently inactive, and there is no scheduled maintenance. In case the deployment link is not functional, it will be necessary to install the project and run it manually.**
 
 ## Author
 
 - Vinícius Neves Costa
 
-## Getting Started
+## Usage
 
-To view the project, simply open the [index.html](insert_link_to_index_file_here) file in your web browser.
+1. Access the [design layout](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=624-2&mode=design&t=xKU1mzShuAtZsBdQ-0).
+2. Clone the repository.
+3. Install any dependencies (if applicable).
+4. Run the project locally.
 
-## Features
+## Troubleshooting
 
-- Simple and responsive sneaker store layout.
+If the deployment link is not working, follow these steps:
 
-## Technologies Used
-
-- HTML
-- CSS
-
-## Contributing
-
-As this project is not actively maintained, contributions are not currently accepted.
+1. Clone the repository.
+2. Install any dependencies (if applicable).
+3. Run the project locally.
 
 ## License
 
@@ -39,4 +35,4 @@ This project is licensed under the MIT license.
 
 ## Acknowledgements
 
-- Codelândia for the challenge opportunity.
+- Codelândia Community for the challenge.
