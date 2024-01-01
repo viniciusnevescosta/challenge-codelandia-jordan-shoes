@@ -1,38 +1,32 @@
-# Codelândia Challenge 02 - Jordan Shoes
+# Tennis Page
 
-This project is part of the Codelândia Challenge 02, a development challenge to create a simple and responsive static page. The theme of the project is a sneaker store, and it was built using HTML and SCSS.
+Bem-vindo ao repositório do meu projeto "Tennis Page"! Aqui, desenvolvi uma página de apresentação de alguns tênis que marcaram época nos anos 90, mas ainda são considerados estilosos hoje em dia.
 
-## Project Overview
+## Visão Geral
 
-The goal of this challenge was to create a static and responsive webpage for a sneaker store. The design layout for the project can be found [here](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=624-2&mode=design&t=xKU1mzShuAtZsBdQ-0).
+Este projeto é uma homenagem aos tênis icônicos da década de 1990. A página apresenta alguns modelos clássicos, destacando sua importância cultural e duradoura popularidade no mundo da moda.
 
-## Project Status
+## Tecnologias Utilizadas
 
-⚠️ **This project is currently inactive, and there is no scheduled maintenance. In case the deployment link is not functional, it will be necessary to install the project and run it manually.**
+- **SCSS:** Uma linguagem de folha de estilo que é compilada para o CSS.
 
-## Author
+## Como Testar
 
-- Vinícius Neves Costa
+1. **Clone o Repositório:**
+   ```bash
+   git clone https://github.com/viniciusnevescosta/challenge-codelandia-jordan-shoes.git
+   ```
 
-## Usage
+2. **Abra o Arquivo HTML:**
+   - Navegue até o diretório do projeto e abra o arquivo `index.html` em um navegador.
 
-1. Access the [design layout](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=624-2&mode=design&t=xKU1mzShuAtZsBdQ-0).
-2. Clone the repository.
-3. Install any dependencies (if applicable).
-4. Run the project locally.
+## Aprendizados Adquiridos
 
-## Troubleshooting
+Durante o desenvolvimento deste projeto, adquiri conhecimentos valiosos, incluindo:
 
-If the deployment link is not working, follow these steps:
+- 🎨 Estilização avançada com SCSS para criar uma página de apresentação atraente.
+- 🌐 Responsividade para garantir uma experiência de usuário consistente em diferentes dispositivos.
 
-1. Clone the repository.
-2. Install any dependencies (if applicable).
-3. Run the project locally.
+---
 
-## License
-
-This project is licensed under the MIT license.
-
-## Acknowledgements
-
-- Codelândia Community for the challenge.
+**Nota:** Este projeto foi arquivado pois representa um estudo concluído com sucesso. Não há planos de desenvolvimento adicional, pois seus objetivos foram alcançados com êxito.
