@@ -33,7 +33,7 @@ Além disso, criei o layout deste projeto com base em um desafio de web design n
 
 1. **Clone o Repositório:**
    ```bash
-   git clone https://github.com/viniciusnevescosta/challenge-codelandia-jordan-shoes.git
+   git clone https://github.com/viniciusnevescosta/tennis-page.git
    ```
 
 2. **Abra o Arquivo HTML:**
